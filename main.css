@@ -18,11 +18,11 @@ body * {
 }
 
 .header {
-	background-color: rgb(24, 54, 76);
+	background-color: rgb(34, 85, 51);
 }
 
 .header h1 {
-	color: rgb(244, 124, 76);
+	color: rgb(220, 53, 69);
 	font-size: 66px;
 	text-align: left;
 	height: 40px;
@@ -30,7 +30,7 @@ body * {
 }	
 
 .header h3 {
-	color: rgb(244, 124, 76);
+	color: rgb(220, 53, 69);
 	font-size: 28px;
 }
 
@@ -45,7 +45,7 @@ height: 22px;
 
 .sidebar {
 	display: inline-block;
-	background-color: rgb(244, 124, 76); 
+	background-color: rgb(220, 53, 69); 
 	font-size: 24px;
 	width: 168px;
 	height: 601px;
